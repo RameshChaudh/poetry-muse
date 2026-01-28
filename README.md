@@ -61,10 +61,10 @@ Select a Persona: Choose a style from the sidebar (e.g., "Cyberpunk").
 * **PDF Export:** Will allow users to download poems as designed PDFs.
 * **Temperature Control:** Adding a slider to adjust the "creativity" of the AI.
 
-Enter a Topic: Type a subject (e.g., "The rain in neon city").
+# Enter a Topic: Type a subject (e.g., "The rain in neon city").
 
-Compose: Click "Compose Poem" to generate text and visuals.
+# Compose: Click "Compose Poem" to generate text and visuals.
 
-Listen: Click "Read Aloud" to hear the poem.
+# Listen: Click "Read Aloud" to hear the poem.
 
-Save: Download the poem as a text file for your portfolio.
+# Save: Download the poem as a text file for your portfolio.
