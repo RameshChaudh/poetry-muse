@@ -1,0 +1,14 @@
+# Python System Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac System Files
+.DS_Store
+
+# Streamlit config
+.streamlit/
+
+# Generated Data (Don't upload your saved test poems)
+poems/
+*.txt
